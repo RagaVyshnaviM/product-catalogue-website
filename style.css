@@ -1,0 +1,57 @@
+nav {
+    background-color: #1b152c;
+}
+body{
+    background-color: rgb(251, 237, 240);
+}
+.box{
+    box-shadow: 0 0 2px 3px rgb(217, 211, 211);
+    transition: transform 0.3s ease;
+}
+.box:hover {
+  transform: scale(1.05);
+}
+.img1{
+    height: 60vh;
+}
+.img2{
+    height:60vh ;
+}
+.img3{
+    height: 60vh;
+}
+.container{
+    width: 50vh;
+    margin: 20px;
+    background-color: rgb(249, 243, 243);
+}
+.container2{
+    width: 40vw;
+    margin: 20px;
+    background-color: rgb(249, 243, 243);
+
+}
+.product{
+    width: 20vh;
+    margin: 10px;
+}
+.head{
+    padding: 5px;
+}
+.item{
+    margin: 10px;
+    width: 20vw;
+    height: 40vh;
+}
+.item4{
+    margin: 10px;
+    width: 30vw;
+    height: 30vh;
+}
+.content{
+    margin-top: 20px;
+    margin: 10px;
+    width: 50vw;
+   
+}
+
